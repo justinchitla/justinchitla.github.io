@@ -7,7 +7,9 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #606c71; }
+  color: #606c71; 
+  background-color: #9ed8fe ;                         /* I added this line */
+}
 
 a {
   color: #1e6bb8;
@@ -120,7 +122,7 @@ a {
   font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: 0.9rem;
   color: #383e41;
-  background-color: #9ed8fe;                   /* f3f6fa */
+  background-color: #9ed8fe;                               /* changed from f3f6fa */
   border-radius: 0.3rem; }
 .main-content pre {
   padding: 0.8rem;
